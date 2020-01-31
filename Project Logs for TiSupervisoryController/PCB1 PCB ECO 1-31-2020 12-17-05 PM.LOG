@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetJ1_25 Pin=R13-1
+Added Pin To Net: NetName=NetJ1_25 Pin=R18-1
+Added Net: Name=NetJ1_25
+Added Pin To Net: NetName=NetJ1_26 Pin=R15-1
+Added Pin To Net: NetName=NetJ1_26 Pin=R20-1
+Added Net: Name=NetJ1_26
+Added Pin To Net: NetName=NetJ1_28 Pin=R12-1
+Added Pin To Net: NetName=NetJ1_28 Pin=R17-1
+Added Net: Name=NetJ1_28
+Added Pin To Net: NetName=NetJ1_29 Pin=R14-1
+Added Pin To Net: NetName=NetJ1_29 Pin=R19-1
+Added Net: Name=NetJ1_29
+Added Member To Class: ClassName=Sheet1 Member=Component J1 6-534206-0

@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=6-534206-0 New DesignItemId=6-534206-0_1
+Change Component DesignItemId : Designator=J3 Old DesignItemId=6-534206-0 New DesignItemId=6-534206-0_2
+Change Component DesignItemId : Designator=J4 Old DesignItemId=6-534206-0 New DesignItemId=6-534206-0_3
+Change Component Comment : Designator=J3 Old Comment=6-534206-0 New Comment=6-534206-0_2
+Change Component Comment : Designator=J4 Old Comment=6-534206-0 New Comment=6-534206-0_3
+Change Component Library : Designator=J2 Old Library=* New Library=TiSupervisoryController.SCHLIB
+Change Component Library : Designator=J3 Old Library=* New Library=TiSupervisoryController.SCHLIB
+Change Component Library : Designator=J4 Old Library=* New Library=TiSupervisoryController.SCHLIB
