@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J3 Old Footprint=SHDR20W69P254_2X10_2540X503X864P New Footprint=206-0_2
+Change Component Footprint: Designator=J4 Old Footprint=SHDR20W69P254_2X10_2540X503X864P New Footprint=206-0_3
+Added Pin To Net: NetName=NetJ3_63 Pin=J3-63
+Added Pin To Net: NetName=NetJ3_65 Pin=J3-65
+Added Pin To Net: NetName=NetJ3_66 Pin=J3-66
+Added Pin To Net: NetName=NetJ3_67 Pin=J3-67
+Added Pin To Net: NetName=NetJ3_68 Pin=J3-68
+Added Pin To Net: NetName=NetJ3_69 Pin=J3-69
+Added Pin To Net: NetName=NetIC1_3 Pin=J3-70
