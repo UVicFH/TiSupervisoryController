@@ -1,0 +1,21 @@
+Added Component: Designator=IC4(SOP50P810X120-48N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nxp.com/docs/en/data-sheet/GTL2000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GTL2000DGG,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-GTL2000DGG118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=771-GTL2000DGG118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_63 Pin=IC2-7
+Added Pin To Net: NetName=NetJ1_29 Pin=IC2-9
+Added Pin To Net: NetName=NetJ1_29 Pin=IC2-40
+Added Pin To Net: NetName=NetJ3_63 Pin=IC2-42
+Added Pin To Net: NetName=NetJ1_29 Pin=J1-9
+Added Pin To Net: NetName=NetJ3_63 Pin=J1-21
+Added Pin To Net: NetName=NetJ1_29 Pin=J2-12
+Added Pin To Net: NetName=NetJ1_29 Pin=J2-32
+Change Net Name : Old Net Name=NetJ1_29 New Net Name=NetIC2_9
+Change Net Name : Old Net Name=NetJ3_63 New Net Name=NetIC2_7
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 GTL2000DGG,118
