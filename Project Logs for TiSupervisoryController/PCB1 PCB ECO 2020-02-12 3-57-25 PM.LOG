@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=IC1-8
+Removed Pin From Net: NetName=NetJ1_29 Pin=J3-66
+Removed Pin From Net: NetName=NetC1_2 Pin=P1-1
+Removed Pin From Net: NetName=NetJ1_29 Pin=R4-2
+Removed Pin From Net: NetName=NetJ1_29 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Added Component: Designator=J5(7760871)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70288175"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-776087-1/70288175/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/776087-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "32.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "776087-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-776087-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-776087-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7181471P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7181471P"; VariantName = "[No Variations]"
+Added Component: Designator=J6(7760871)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70288175"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-776087-1/70288175/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/776087-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "32.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "776087-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-776087-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-776087-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7181471P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7181471P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=IC2-47
+Added Pin To Net: NetName=NetC1_2 Pin=IC2-48
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J3-62
+Added Pin To Net: NetName=GND Pin=J4-60
+Added Pin To Net: NetName=GND Pin=R28-2
+Change Net Name : Old Net Name=APS1VD New Net Name=APS1
+Change Net Name : Old Net Name=APS2VD New Net Name=APS2
+Change Net Name : Old Net Name=CPBRBin New Net Name=CPBRB
+Change Net Name : Old Net Name=FBPVD New Net Name=FBP
+Change Net Name : Old Net Name=FLSTVD New Net Name=FLST
+Change Net Name : Old Net Name=FRSTVD New Net Name=FRST
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=MRSG
+Change Net Name : Old Net Name=NetIC1_5 New Net Name=MDSG
+Change Net Name : Old Net Name=NetJ1_25 New Net Name=APS2VD
+Change Net Name : Old Net Name=NetJ1_26 New Net Name=TPS2VP
+Change Net Name : Old Net Name=NetJ1_28 New Net Name=APS1VD
+Change Net Name : Old Net Name=NetJ1_29 New Net Name=TPS1VD
+Change Net Name : Old Net Name=NetJ3_64 New Net Name=RRSTVD
+Change Net Name : Old Net Name=NetJ3_65 New Net Name=RBPVD
+Change Net Name : Old Net Name=NetJ3_67 New Net Name=FRSTVD
+Change Net Name : Old Net Name=NetJ3_68 New Net Name=FBPVD
+Change Net Name : Old Net Name=NetJ3_69 New Net Name=RLSTVD
+Change Net Name : Old Net Name=RBPVD New Net Name=RBP
+Change Net Name : Old Net Name=RLSTVD New Net Name=RLST
+Change Net Name : Old Net Name=RRSTVD New Net Name=RRST
+Change Net Name : Old Net Name=TPS1VD New Net Name=TPS1
+Change Net Name : Old Net Name=TPS2VD New Net Name=TPS2
+Added Pin To Net: NetName=+3V3 Pin=IC2-2
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=+3V3 Pin=J3-41
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=IC1-8
+Added Pin To Net: NetName=+5V Pin=J1-21
+Added Pin To Net: NetName=+5V Pin=J3-61
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=R29-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=CAN-H Pin=P1-5
+Added Net: Name=CAN-H
+Added Pin To Net: NetName=CAN-L Pin=P1-4
+Added Net: Name=CAN-L
+Added Pin To Net: NetName=CPBRBVD Pin=J4-80
+Added Pin To Net: NetName=CPBRBVD Pin=R25-1
+Added Pin To Net: NetName=CPBRBVD Pin=R27-2
+Added Net: Name=CPBRBVD
+Added Pin To Net: NetName=FLSTVD Pin=J3-66
+Added Pin To Net: NetName=FLSTVD Pin=R4-2
+Added Pin To Net: NetName=FLSTVD Pin=R7-2
+Added Net: Name=FLSTVD
+Added Pin To Net: NetName=TSMS Pin=R26-1
+Added Net: Name=TSMS
+Added Pin To Net: NetName=TSMSVD Pin=J4-79
+Added Pin To Net: NetName=TSMSVD Pin=R26-2
+Added Pin To Net: NetName=TSMSVD Pin=R28-1
+Added Net: Name=TSMSVD
+Added Member To Class: ClassName=Sheet1 Member=Component J5 776087-1
+Added Member To Class: ClassName=Sheet1 Member=Component J6 776087-1
