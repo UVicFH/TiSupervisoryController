@@ -1,0 +1,94 @@
+Change Component Footprint: Designator=J2 Old Footprint=206-0 New Footprint=206-0_1
+Change Component Footprint: Designator=J3 Old Footprint=206-0 New Footprint=206-0_2
+Change Component Footprint: Designator=J4 Old Footprint=206-0 New Footprint=206-0_3
+Added Pin To Net: NetName=ENB Pin=J2-15
+Added Pin To Net: NetName=RST Pin=J2-16
+Added Pin To Net: NetName=ENA Pin=J2-17
+Added Pin To Net: NetName=INB Pin=J2-18
+Added Pin To Net: NetName=INA Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=EBOOST Pin=J2-33
+Added Pin To Net: NetName=SHDW Pin=J2-34
+Added Pin To Net: NetName=SHUP Pin=J2-35
+Added Pin To Net: NetName=RLWE Pin=J2-36
+Added Pin To Net: NetName=RRWE Pin=J2-37
+Added Pin To Net: NetName=FRWE Pin=J2-38
+Added Pin To Net: NetName=FLWE Pin=J2-39
+Added Pin To Net: NetName=TPWM Pin=J2-40
+Added Pin To Net: NetName=+3V3 Pin=J3-41
+Added Pin To Net: NetName=UARTRX Pin=J3-43
+Added Pin To Net: NetName=UARTTX Pin=J3-44
+Added Pin To Net: NetName=MDSW Pin=J3-45
+Added Pin To Net: NetName=MRSW Pin=J3-46
+Added Pin To Net: NetName=SPICLK Pin=J3-47
+Added Pin To Net: NetName=I2CSCL Pin=J3-49
+Added Pin To Net: NetName=I2CSDA Pin=J3-50
+Added Pin To Net: NetName=+5V Pin=J3-61
+Added Pin To Net: NetName=GND Pin=J3-62
+Added Pin To Net: NetName=RRSTVD Pin=J3-64
+Added Pin To Net: NetName=RBPVD Pin=J3-65
+Added Pin To Net: NetName=FLSTVD Pin=J3-66
+Added Pin To Net: NetName=FRSTVD Pin=J3-67
+Added Pin To Net: NetName=FBPVD Pin=J3-68
+Added Pin To Net: NetName=RLSTVD Pin=J3-69
+Added Pin To Net: NetName=MRSG Pin=J3-70
+Added Pin To Net: NetName=SPICS Pin=J4-52
+Added Pin To Net: NetName=SPICD Pin=J4-53
+Added Pin To Net: NetName=SPIMISO Pin=J4-54
+Added Pin To Net: NetName=SPIMOSI Pin=J4-55
+Added Pin To Net: NetName=RST Pin=J4-56
+Added Pin To Net: NetName=GND Pin=J4-60
+Added Pin To Net: NetName=TSMSVD Pin=J4-79
+Added Pin To Net: NetName=CPBRBVD Pin=J4-80
+Added Member To Class: ClassName=Sheet1 Member=Component C1 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C2 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C3 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C4 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C5 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C6 C1210C107M4PAC7800
+Added Member To Class: ClassName=Sheet1 Member=Component C7 GRM0332C1E100JD01D
+Added Member To Class: ClassName=Sheet1 Member=Component C8 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C9 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C10 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C11 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C12 C1210C107M4PAC7800
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 MCP6022-E_SN
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 GTL2000DGG,118
+Added Member To Class: ClassName=Sheet1 Member=Component J1 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J2 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J3 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J4 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J5 776087-1
+Added Member To Class: ClassName=Sheet1 Member=Component J6 776087-1
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component PS1 OKR-T_10-W12-C
+Added Member To Class: ClassName=Sheet1 Member=Component R1 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R2 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R3 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R4 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R5 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R6 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R7 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R8 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R9 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R10 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R11 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R12 6800
+Added Member To Class: ClassName=Sheet1 Member=Component R13 200k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 6800
+Added Member To Class: ClassName=Sheet1 Member=Component R15 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R16 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R17 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R18 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R19 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R20 432
+Added Member To Class: ClassName=Sheet1 Member=Component R21 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R22 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R23 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R24 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R25 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R26 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R27 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R28 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R29 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R30 22000

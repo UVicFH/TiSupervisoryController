@@ -1,0 +1,831 @@
+Removed Pin From Net: NetName=RRST Pin=R1-1
+Removed Pin From Net: NetName=RRSTVD Pin=R1-2
+Removed Pin From Net: NetName=FRST Pin=R2-1
+Removed Pin From Net: NetName=FRSTVD Pin=R2-2
+Removed Pin From Net: NetName=RLST Pin=R3-1
+Removed Pin From Net: NetName=RLSTVD Pin=R3-2
+Removed Pin From Net: NetName=FLST Pin=R4-1
+Removed Pin From Net: NetName=FLSTVD Pin=R4-2
+Removed Pin From Net: NetName=FBP Pin=R5-1
+Removed Pin From Net: NetName=FBPVD Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=FBPVD Pin=R6-2
+Removed Pin From Net: NetName=FLSTVD Pin=R7-2
+Removed Pin From Net: NetName=RLSTVD Pin=R8-2
+Removed Pin From Net: NetName=FRSTVD Pin=R9-2
+Removed Pin From Net: NetName=RRSTVD Pin=R10-2
+Removed Pin From Net: NetName=RBPVD Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=APS1VD Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=APS2VD Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=TPS1VD Pin=R14-1
+Removed Pin From Net: NetName=TPS2VP Pin=R15-1
+Removed Pin From Net: NetName=RBPVD Pin=R16-1
+Removed Pin From Net: NetName=RBP Pin=R16-2
+Removed Pin From Net: NetName=APS1VD Pin=R17-1
+Removed Pin From Net: NetName=APS1 Pin=R17-2
+Removed Pin From Net: NetName=APS2VD Pin=R18-1
+Removed Pin From Net: NetName=APS2 Pin=R18-2
+Removed Pin From Net: NetName=TPS1VD Pin=R19-1
+Removed Pin From Net: NetName=TPS1 Pin=R19-2
+Removed Pin From Net: NetName=TPS2VP Pin=R20-1
+Removed Pin From Net: NetName=TPS2 Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R22-2
+Removed Pin From Net: NetName=NetIC1_6 Pin=R23-2
+Removed Pin From Net: NetName=NetIC1_2 Pin=R24-2
+Removed Pin From Net: NetName=CPBRBVD Pin=R25-1
+Removed Pin From Net: NetName=CPBRB Pin=R25-2
+Removed Pin From Net: NetName=TSMS Pin=R26-1
+Removed Pin From Net: NetName=TSMSVD Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=CPBRBVD Pin=R27-2
+Removed Pin From Net: NetName=TSMSVD Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=+5V Pin=R29-1
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0603X33N New Footprint=CAPC3216X190N
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R6 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R7 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R9 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R10 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R11 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R12 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R13 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R14 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R15 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R16 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R17 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R18 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R19 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R20 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R21 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R22 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R23 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R24 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R25 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R26 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R27 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R28 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Footprint: Designator=R29 Old Footprint=J1-0603 New Footprint=RESC3116X70N
+Change Component Comment : Designator=C1 Old Comment=GRM0332C1E100JD01D New Comment=GMK316BJ106KL-T
+Change Component Comment : Designator=R13 Old Comment=Res3 New Comment=200k
+Change Component Comment : Designator=R20 Old Comment=Res3 New Comment=432
+Change Component Comment : Designator=R1 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R2 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R3 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R5 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R6 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R21 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R22 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R24 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R25 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R26 Old Comment=Res3 New Comment=6190
+Change Component Comment : Designator=R12 Old Comment=Res3 New Comment=6800
+Change Component Comment : Designator=R14 Old Comment=Res3 New Comment=6800
+Change Component Comment : Designator=R7 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R8 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R9 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R10 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R11 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R15 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R16 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R17 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R18 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R19 Old Comment=Res3 New Comment=9760
+Change Component Comment : Designator=R4 Old Comment=Res3 New Comment=22000
+Change Component Comment : Designator=R23 Old Comment=Res3 New Comment=22000
+Change Component Comment : Designator=R27 Old Comment=Res3 New Comment=22000
+Change Component Comment : Designator=R28 Old Comment=Res3 New Comment=22000
+Change Component Comment : Designator=R29 Old Comment=Res3 New Comment=22000
+Change component parameters: Designator = "C1"; Footprint = "CAPC3216X190N"; UniqueID = "\NIIVPCKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RESC3116X70N"; UniqueID = "\LCWNNNVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RESC3116X70N"; UniqueID = "\HYVBBEJI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RESC3116X70N"; UniqueID = "\QKUTUVYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESC3116X70N"; UniqueID = "\VGRLJQYT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC3116X70N"; UniqueID = "\TXRCYNET"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RESC3116X70N"; UniqueID = "\ADFSZOLN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RESC3116X70N"; UniqueID = "\BSNFFRWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RESC3116X70N"; UniqueID = "\GSDCYJAW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RESC3116X70N"; UniqueID = "\OQIQRCHZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RESC3116X70N"; UniqueID = "\TLWXYOES"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RESC3116X70N"; UniqueID = "\ZTOGGXZD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RESC3116X70N"; UniqueID = "\UWCTIUYI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6801V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6801V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RESC3116X70N"; UniqueID = "\NXTDGIWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "RESC3116X70N"; UniqueID = "\ZXQWKWWD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6801V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6801V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "RESC3116X70N"; UniqueID = "\QCZTZQJZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RESC3116X70N"; UniqueID = "\SQTFKQAO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RESC3116X70N"; UniqueID = "\DZNUHECY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RESC3116X70N"; UniqueID = "\RPLQQTJJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "RESC3116X70N"; UniqueID = "\DZZOTEAJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF9761V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20"; Footprint = "RESC3116X70N"; UniqueID = "\GGIWSGAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF4320V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF4320V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "RESC3116X70N"; UniqueID = "\CQSDMYHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RESC3116X70N"; UniqueID = "\FQECBVBI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "RESC3116X70N"; UniqueID = "\QWVMNVDQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "RESC3116X70N"; UniqueID = "\VSQQBEVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "RESC3116X70N"; UniqueID = "\ZMWFNPGA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26"; Footprint = "RESC3116X70N"; UniqueID = "\APTJLCFI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF6191V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "RESC3116X70N"; UniqueID = "\FEXQLMAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "RESC3116X70N"; UniqueID = "\HJGCWBPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "RESC3116X70N"; UniqueID = "\FSXACHTD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC3225X280N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1210C107M4PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM0332C1E100JD01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM0332C1E100JD01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM0332C1E100JD01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC3216X190N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC3225X280N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1210C107M4PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PS1(OKRT10W12C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/OKR-T_10-W12-C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OKR-T/10-W12-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "580-OKR-T/10-W12-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=580-OKR-T%2F10-W12-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1736947P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1736947P"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC3116X70N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70266166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-erj-8enf1000v/70266166/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-8ENF2201V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-8ENF1000V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3V3 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=CPBRB Pin=J5-3
+Added Pin To Net: NetName=TSMS Pin=J5-4
+Added Pin To Net: NetName=CAN-L Pin=J5-8
+Added Pin To Net: NetName=CAN-H Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-14
+Added Pin To Net: NetName=TPS1 Pin=J6-12
+Added Pin To Net: NetName=TPS2 Pin=J6-13
+Added Pin To Net: NetName=GND Pin=J6-14
+Added Pin To Net: NetName=RRST Pin=J6-16
+Added Pin To Net: NetName=FRST Pin=J6-17
+Added Pin To Net: NetName=RLST Pin=J6-18
+Added Pin To Net: NetName=FLST Pin=J6-19
+Added Pin To Net: NetName=FBP Pin=J6-20
+Added Pin To Net: NetName=RBP Pin=J6-21
+Added Pin To Net: NetName=APS1 Pin=J6-22
+Added Pin To Net: NetName=APS2 Pin=J6-23
+Added Pin To Net: NetName=GND Pin=PS1-3
+Added Pin To Net: NetName=+3V3 Pin=PS1-4
+Added Pin To Net: NetName=RRSTVD Pin=R1-1
+Added Pin To Net: NetName=RRST Pin=R1-2
+Added Pin To Net: NetName=FRSTVD Pin=R2-1
+Added Pin To Net: NetName=FRST Pin=R2-2
+Added Pin To Net: NetName=RLSTVD Pin=R3-1
+Added Pin To Net: NetName=RLST Pin=R3-2
+Added Pin To Net: NetName=CPBRB Pin=R4-1
+Added Pin To Net: NetName=CPBRBVD Pin=R4-2
+Added Pin To Net: NetName=FLSTVD Pin=R5-1
+Added Pin To Net: NetName=FLST Pin=R5-2
+Added Pin To Net: NetName=FBPVD Pin=R6-1
+Added Pin To Net: NetName=FBP Pin=R6-2
+Added Pin To Net: NetName=FBPVD Pin=R7-2
+Added Pin To Net: NetName=FLSTVD Pin=R8-2
+Added Pin To Net: NetName=RLSTVD Pin=R9-2
+Added Pin To Net: NetName=FRSTVD Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=RRSTVD Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=CPBRBVD Pin=R12-2
+Added Pin To Net: NetName=+5V Pin=R13-2
+Added Pin To Net: NetName=TSMSVD Pin=R14-1
+Added Pin To Net: NetName=RBPVD Pin=R15-1
+Added Pin To Net: NetName=APS1VD Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=APS2VD Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=TPS1VD Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=TPS2VP Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=RBPVD Pin=R21-1
+Added Pin To Net: NetName=RBP Pin=R21-2
+Added Pin To Net: NetName=APS1VD Pin=R22-1
+Added Pin To Net: NetName=APS1 Pin=R22-2
+Added Pin To Net: NetName=TSMSVD Pin=R23-1
+Added Pin To Net: NetName=TSMS Pin=R23-2
+Added Pin To Net: NetName=APS2VD Pin=R24-1
+Added Pin To Net: NetName=APS2 Pin=R24-2
+Added Pin To Net: NetName=TPS1VD Pin=R25-1
+Added Pin To Net: NetName=TPS1 Pin=R25-2
+Added Pin To Net: NetName=TPS2VP Pin=R26-1
+Added Pin To Net: NetName=TPS2 Pin=R26-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R27-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R28-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=+12V_car Pin=C6-1
+Added Pin To Net: NetName=+12V_car Pin=J5-15
+Added Pin To Net: NetName=+12V_car Pin=J6-15
+Added Net: Name=+12V_car
+Added Pin To Net: NetName=+12V Pin=C1-2
+Added Pin To Net: NetName=+12V Pin=PS1-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=EBOOST Pin=J5-7
+Added Net: Name=EBOOST
+Added Pin To Net: NetName=ENA Pin=IC2-6
+Added Net: Name=ENA
+Added Pin To Net: NetName=ENB Pin=IC2-7
+Added Net: Name=ENB
+Added Pin To Net: NetName=FLWE Pin=IC2-8
+Added Net: Name=FLWE
+Added Pin To Net: NetName=FRWE Pin=IC2-9
+Added Net: Name=FRWE
+Added Net: Name=I2CSCL
+Added Net: Name=I2CSDA
+Added Pin To Net: NetName=INA Pin=IC2-4
+Added Net: Name=INA
+Added Pin To Net: NetName=INB Pin=IC2-5
+Added Net: Name=INB
+Added Pin To Net: NetName=MDSG_OUT Pin=IC1-7
+Added Pin To Net: NetName=MDSG_OUT Pin=J5-2
+Added Pin To Net: NetName=MDSG_OUT Pin=R28-1
+Added Net: Name=MDSG_OUT
+Added Pin To Net: NetName=MDSW Pin=IC2-12
+Added Net: Name=MDSW
+Added Pin To Net: NetName=MRSG_OUT Pin=IC1-1
+Added Pin To Net: NetName=MRSG_OUT Pin=J5-1
+Added Pin To Net: NetName=MRSG_OUT Pin=R27-1
+Added Net: Name=MRSG_OUT
+Added Pin To Net: NetName=MRSW Pin=IC2-13
+Added Net: Name=MRSW
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=IC2-47
+Added Pin To Net: NetName=NetC7_2 Pin=IC2-48
+Added Pin To Net: NetName=NetC7_2 Pin=R13-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetIC2_36 Pin=IC2-36
+Added Pin To Net: NetName=NetIC2_36 Pin=J6-11
+Added Net: Name=NetIC2_36
+Added Pin To Net: NetName=NetIC2_37 Pin=IC2-37
+Added Pin To Net: NetName=NetIC2_37 Pin=J6-10
+Added Net: Name=NetIC2_37
+Added Pin To Net: NetName=NetIC2_38 Pin=IC2-38
+Added Pin To Net: NetName=NetIC2_38 Pin=J6-9
+Added Net: Name=NetIC2_38
+Added Pin To Net: NetName=NetIC2_39 Pin=IC2-39
+Added Pin To Net: NetName=NetIC2_39 Pin=J6-8
+Added Net: Name=NetIC2_39
+Added Pin To Net: NetName=NetIC2_40 Pin=IC2-40
+Added Pin To Net: NetName=NetIC2_40 Pin=J6-7
+Added Net: Name=NetIC2_40
+Added Pin To Net: NetName=NetIC2_41 Pin=IC2-41
+Added Pin To Net: NetName=NetIC2_41 Pin=J6-6
+Added Net: Name=NetIC2_41
+Added Pin To Net: NetName=NetIC2_42 Pin=IC2-42
+Added Pin To Net: NetName=NetIC2_42 Pin=J6-5
+Added Net: Name=NetIC2_42
+Added Pin To Net: NetName=NetIC2_43 Pin=IC2-43
+Added Pin To Net: NetName=NetIC2_43 Pin=J6-4
+Added Net: Name=NetIC2_43
+Added Pin To Net: NetName=NetIC2_44 Pin=IC2-44
+Added Pin To Net: NetName=NetIC2_44 Pin=J6-3
+Added Net: Name=NetIC2_44
+Added Pin To Net: NetName=NetIC2_45 Pin=IC2-45
+Added Pin To Net: NetName=NetIC2_45 Pin=J6-2
+Added Net: Name=NetIC2_45
+Added Pin To Net: NetName=NetIC2_46 Pin=IC2-46
+Added Pin To Net: NetName=NetIC2_46 Pin=J6-1
+Added Net: Name=NetIC2_46
+Added Pin To Net: NetName=NetPS1_5 Pin=PS1-5
+Added Pin To Net: NetName=NetPS1_5 Pin=R20-1
+Added Net: Name=NetPS1_5
+Added Pin To Net: NetName=RLWE Pin=IC2-10
+Added Net: Name=RLWE
+Added Pin To Net: NetName=RRWE Pin=IC2-11
+Added Net: Name=RRWE
+Added Net: Name=RST
+Added Pin To Net: NetName=SHDW Pin=J5-6
+Added Net: Name=SHDW
+Added Pin To Net: NetName=SHUP Pin=J5-5
+Added Net: Name=SHUP
+Added Net: Name=SPICD
+Added Net: Name=SPICLK
+Added Net: Name=SPICS
+Added Net: Name=SPIMISO
+Added Net: Name=SPIMOSI
+Added Pin To Net: NetName=TPWM Pin=IC2-3
+Added Net: Name=TPWM
+Added Net: Name=UARTRX
+Added Net: Name=UARTTX
+Added Member To Class: ClassName=Sheet1 Member=Component C1 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C2 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C3 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C4 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C5 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C6 C1210C107M4PAC7800
+Added Member To Class: ClassName=Sheet1 Member=Component C7 GRM0332C1E100JD01D
+Added Member To Class: ClassName=Sheet1 Member=Component C8 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C9 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C10 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C11 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C12 C1210C107M4PAC7800
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 MCP6022-E_SN
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 GTL2000DGG,118
+Added Member To Class: ClassName=Sheet1 Member=Component J1 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J2 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J3 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J4 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J5 776087-1
+Added Member To Class: ClassName=Sheet1 Member=Component J6 776087-1
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component PS1 OKR-T_10-W12-C
+Added Member To Class: ClassName=Sheet1 Member=Component R1 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R2 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R3 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R4 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R5 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R6 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R7 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R8 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R9 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R10 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R11 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R12 6800
+Added Member To Class: ClassName=Sheet1 Member=Component R13 200k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 6800
+Added Member To Class: ClassName=Sheet1 Member=Component R15 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R16 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R17 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R18 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R19 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R20 432
+Added Member To Class: ClassName=Sheet1 Member=Component R21 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R22 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R23 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R24 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R25 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R26 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R27 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R28 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R29 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R30 22000
+Added Room: Name=Sheet1
