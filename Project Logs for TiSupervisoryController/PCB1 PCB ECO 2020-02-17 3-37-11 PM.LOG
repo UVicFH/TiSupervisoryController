@@ -1,0 +1,30 @@
+Added Component: Designator=J4(206-0_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70042958"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/teconnectivity-6-534206-0/70042958/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F534206%7FR7%7Fpdf%7FEnglish%7FENG_CD_534206_R7.pdf%7F6-534206-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.64mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534206-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-6-534206-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-6-534206-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6803445P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6803445P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J4-41
+Added Pin To Net: NetName=UARTRX Pin=J4-43
+Added Pin To Net: NetName=UARTTX Pin=J4-44
+Added Pin To Net: NetName=MDSW Pin=J4-45
+Added Pin To Net: NetName=MRSW Pin=J4-46
+Added Pin To Net: NetName=SPICLK Pin=J4-47
+Added Pin To Net: NetName=I2CSCL Pin=J4-49
+Added Pin To Net: NetName=I2CSDA Pin=J4-50
+Added Pin To Net: NetName=+5V Pin=J4-61
+Added Pin To Net: NetName=GND Pin=J4-62
+Added Pin To Net: NetName=RRSTVD Pin=J4-64
+Added Pin To Net: NetName=RBPVD Pin=J4-65
+Added Pin To Net: NetName=FLSTVD Pin=J4-66
+Added Pin To Net: NetName=FRSTVD Pin=J4-67
+Added Pin To Net: NetName=FBPVD Pin=J4-68
+Added Pin To Net: NetName=RLSTVD Pin=J4-69
+Added Pin To Net: NetName=MRSG Pin=J4-70
+Added Member To Class: ClassName=Sheet1 Member=Component J4 6-534206-0
