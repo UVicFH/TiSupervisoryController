@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0603X33N New Footprint=CAPC3216X190N
+Change Component Comment : Designator=C8 Old Comment=GRM0332C1E100JD01D New Comment=GMK316BJ106KL-T
+Change component parameters: Designator = "C8"; Footprint = "CAPC3216X190N"; UniqueID = "\CEUKOGBF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-GMK316BJ106KL-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=I6KAKw0tg2wzwIZ%2fJjJ5Xg%3d%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=C3-2
+Added Room: Name=Sheet1
