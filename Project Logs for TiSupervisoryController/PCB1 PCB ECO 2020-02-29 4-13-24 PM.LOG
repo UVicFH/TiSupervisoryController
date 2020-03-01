@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=NetR7_1 Pin=C1-2
+Added Pin To Net: NetName=NetR7_1 Pin=C2-1
+Added Pin To Net: NetName=NetR7_1 Pin=C4-1
+Added Pin To Net: NetName=NetR7_1 Pin=C5-1
+Added Pin To Net: NetName=NetR7_1 Pin=C6-1
+Added Pin To Net: NetName=NetR7_1 Pin=C7-1
+Added Pin To Net: NetName=NetR7_1 Pin=C8-1
+Added Pin To Net: NetName=NetR7_1 Pin=C9-1
+Added Pin To Net: NetName=NetR7_1 Pin=C10-1
+Added Pin To Net: NetName=NetR7_1 Pin=C11-1
+Added Pin To Net: NetName=NetR7_1 Pin=C12-1
+Added Pin To Net: NetName=NetR7_1 Pin=IC1-1
+Added Pin To Net: NetName=NetR7_1 Pin=IC2-4
+Added Pin To Net: NetName=NetR7_1 Pin=J1-22
+Added Pin To Net: NetName=NetR7_1 Pin=J2-20
+Added Pin To Net: NetName=NetR7_1 Pin=J3-62
+Added Pin To Net: NetName=NetR7_1 Pin=J4-60
+Added Pin To Net: NetName=NetR7_1 Pin=J5-14
+Added Pin To Net: NetName=NetR7_1 Pin=J6-14
+Added Pin To Net: NetName=NetR7_1 Pin=P1-3
+Added Pin To Net: NetName=NetR7_1 Pin=PS1-3
+Added Pin To Net: NetName=NetR7_1 Pin=R20-2
+Added Pin To Net: NetName=NetR7_1 Pin=R29-2
+Added Pin To Net: NetName=NetR7_1 Pin=R30-2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=GND

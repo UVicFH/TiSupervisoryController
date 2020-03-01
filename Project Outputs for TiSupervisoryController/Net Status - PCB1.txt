@@ -1,0 +1,83 @@
+Net Status Report
+Filename     : C:\Users\uvichybrid\Documents\GitHub\TiSupervisoryController\PCB1.PcbDoc
+Date         : 2020-02-29
+Time         : 4:07:04 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12V, Signal Layers Only, 18.5702mm
+    +12V_car, Signal Layers Only, 129.5289mm
+    +3V3, Signal Layers Only, 226.9354mm
+    +5V, Signal Layers Only, 56.9091mm
+    APS1, Signal Layers Only, 111.5465mm
+    APS1VD, Signal Layers Only, 8.0438mm
+    APS2, Signal Layers Only, 105.342mm
+    APS2VD, Signal Layers Only, 8.3557mm
+    CAN-H, Signal Layers Only, 161.426mm
+    CAN-L, Signal Layers Only, 185.3885mm
+    CPBRB, Signal Layers Only, 93.9416mm
+    CPBRBVD, Signal Layers Only, 6.963mm
+    EBOOST, Signal Layers Only, 68.4161mm
+    ENA, Signal Layers Only, 39.0034mm
+    ENB, Signal Layers Only, 45.7679mm
+    FBP, Signal Layers Only, 107.4222mm
+    FBPVD, Signal Layers Only, 9.3748mm
+    FLST, Signal Layers Only, 87.0166mm
+    FLSTVD, Signal Layers Only, 8.7241mm
+    FLWE, Signal Layers Only, 40.6311mm
+    FRST, Signal Layers Only, 85.4835mm
+    FRSTVD, Signal Layers Only, 8.4998mm
+    FRWE, Signal Layers Only, 49.169mm
+    I2CSCL, Signal Layers Only, 0mm
+    I2CSDA, Signal Layers Only, 0mm
+    INA, Signal Layers Only, 42.4089mm
+    INB, Signal Layers Only, 46.4759mm
+    MDSG, Signal Layers Only, 29.0473mm
+    MDSG_OUT, Signal Layers Only, 160.0616mm
+    MDSW, Signal Layers Only, 105.7261mm
+    MRSG, Signal Layers Only, 42.3754mm
+    MRSG_OUT, Signal Layers Only, 130.3986mm
+    MRSW, Signal Layers Only, 79.8862mm
+    NetC1_2, Signal Layers Only, 0mm
+    NetC8_2, Signal Layers Only, 30.45mm
+    NetIC1_36, Signal Layers Only, 86.1777mm
+    NetIC1_37, Signal Layers Only, 77.9962mm
+    NetIC1_38, Signal Layers Only, 100.1883mm
+    NetIC1_39, Signal Layers Only, 66.6606mm
+    NetIC1_40, Signal Layers Only, 57.7785mm
+    NetIC1_41, Signal Layers Only, 60.8617mm
+    NetIC1_42, Signal Layers Only, 71.9781mm
+    NetIC1_43, Signal Layers Only, 72.9541mm
+    NetIC1_44, Signal Layers Only, 70.8809mm
+    NetIC1_45, Signal Layers Only, 75.9938mm
+    NetIC1_46, Signal Layers Only, 77.3833mm
+    NetIC2_2, Signal Layers Only, 7.3747mm
+    NetIC2_6, Signal Layers Only, 5.7686mm
+    NetPS1_5, Signal Layers Only, 9.0622mm
+    NetR7_1, Signal Layers Only, 111.9741mm
+    RBP, Signal Layers Only, 109.0585mm
+    RBPVD, Signal Layers Only, 9.3773mm
+    RLST, Signal Layers Only, 94.5534mm
+    RLSTVD, Signal Layers Only, 10.024mm
+    RLWE, Signal Layers Only, 37.8708mm
+    RRST, Signal Layers Only, 94.8963mm
+    RRSTVD, Signal Layers Only, 10.042mm
+    RRWE, Signal Layers Only, 50.3774mm
+    RST, Signal Layers Only, 64.4572mm
+    SHDW, Signal Layers Only, 72.758mm
+    SHUP, Signal Layers Only, 76.1241mm
+    SPICD, Signal Layers Only, 0mm
+    SPICLK, Signal Layers Only, 0mm
+    SPICS, Signal Layers Only, 0mm
+    SPIMISO, Signal Layers Only, 0mm
+    SPIMOSI, Signal Layers Only, 0mm
+    TPS1, Signal Layers Only, 116.5774mm
+    TPS1VD, Signal Layers Only, 8.7886mm
+    TPS2, Signal Layers Only, 114.8511mm
+    TPS2VP, Signal Layers Only, 8.6377mm
+    TPWM, Signal Layers Only, 44.4151mm
+    TSMS, Signal Layers Only, 100.7756mm
+    TSMSVD, Signal Layers Only, 6.9757mm
+    UARTRX, Signal Layers Only, 0mm
+    UARTTX, Signal Layers Only, 0mm
+count : 75
