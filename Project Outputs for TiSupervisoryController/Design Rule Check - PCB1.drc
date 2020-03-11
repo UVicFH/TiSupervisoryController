@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Hybrid\Documents\GitHub\TISupervisoryController\PCB1.PcbDoc
 Date     : 11/03/2020
-Time     : 12:31:44 PM
+Time     : 12:44:58 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -161,7 +161,7 @@ Rule Violations :0
 
 Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
    Waived Violation between Un-Routed Net Constraint: Net +5V Between Pad P1-1(4.06mm,-72.115mm) on Multi-Layer And Pad J1-61(4.06mm,-39.095mm) on Multi-Layer Waived by Jules Pare at 11/03/2020 12:25:05 PM
-   Waived Violation between Un-Routed Net Constraint: Net +5V Between Track (4.06mm,24.405mm)(7.13mm,24.405mm) on Bottom Layer And Track (17.145mm,-23.44mm)(17.177mm,-23.407mm) on Bottom Layer Waived by Jules Pare at 11/03/2020 12:25:05 PM
+   Waived Violation between Un-Routed Net Constraint: Net +5V Between Pad J2-21(4.06mm,24.405mm) on Multi-Layer And Via (17.145mm,-23.44mm) from Top Layer to Bottom Layer Waived by Jules Pare at 11/03/2020 12:44:51 PM
 Waived Violations :2
 
 Waived Violations Of Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
