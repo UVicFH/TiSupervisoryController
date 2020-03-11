@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=D?-3
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=+3V3 Pin=C10-2
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=IC1-2
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=+3V3 Pin=J3-41
+Added Pin To Net: NetName=+3V3 Pin=PS1-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=+5V Pin=IC2-8
+Added Pin To Net: NetName=+5V Pin=J1-21
+Added Pin To Net: NetName=+5V Pin=J3-61
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=R13-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V_car Pin=C1-1
+Added Pin To Net: NetName=+12V_car Pin=D?-1
+Added Pin To Net: NetName=+12V_car Pin=D?-2
+Added Pin To Net: NetName=+12V_car Pin=J5-15
+Added Pin To Net: NetName=+12V_car Pin=J6-15
+Added Net: Name=+12V_car
+Added Member To Class: ClassName=Sheet1 Member=Component C2 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C4 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C7 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C8 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component C9 GMK316BJ106KL-T
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 GTL2000DGG,118
+Added Member To Class: ClassName=Sheet1 Member=Component J2 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J4 6-534206-0
+Added Member To Class: ClassName=Sheet1 Member=Component J6 776087-1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R4 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R5 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R11 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R12 6800
+Added Member To Class: ClassName=Sheet1 Member=Component R17 9760
+Added Member To Class: ClassName=Sheet1 Member=Component R20 432
+Added Member To Class: ClassName=Sheet1 Member=Component R22 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R23 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R24 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R25 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R26 6190
+Added Member To Class: ClassName=Sheet1 Member=Component R27 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R29 22000
+Added Member To Class: ClassName=Sheet1 Member=Component R30 22000
+Added Room: Name=Sheet1
